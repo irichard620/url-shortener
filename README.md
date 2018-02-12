@@ -1,2 +1,2 @@
-# URL Shortener Microservice
-Go to https://plaid-shelf.glitch.me/ to read more
+# Free Code Camp: URL Shortener
+Go to https://fcc-ian-url-shortener.glitch.me/ for more info.
